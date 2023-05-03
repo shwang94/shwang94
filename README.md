@@ -1,8 +1,6 @@
 ### Hi guys 👋
 
-**shwang94/shwang94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Thư Vòng in Vietnamese and you can call me by another name is Sarah. 
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning about Reactjs
