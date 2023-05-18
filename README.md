@@ -11,7 +11,7 @@
 
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postman,vscode,firebase, github, gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postman,vscode,firebase,github,gitlab)](https://skillicons.dev)
 
 # Connect me
 
