@@ -7,3 +7,4 @@
 - 📫 How to reach me: linkedin
 # My tech stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongoDB,postman,materialUI)](https://skillicons.dev)
