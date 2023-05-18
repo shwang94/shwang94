@@ -6,7 +6,7 @@
 - 💬 Ask me about code
 - 📫 How to reach me: linkedin
 # My tech stack
-- Languages
+Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react, nodejs, bootstrap)](https://skillicons.dev)
-- Tools
+Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postman,vscode, firebase)](https://skillicons.dev)
