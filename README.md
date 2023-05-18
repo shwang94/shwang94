@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning about Reactjs
 - 💬 Ask me about code
 - 📫 How to reach me: linkedin
+# My tech stack
 
+-   [GitHub Stats Card](#github-stats-card)
 <h1 align="center">My tech stack 
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
